@@ -1,4 +1,2 @@
 # Responsive-website
-Simple responsive website with HTML, CSS, JS 
-
-This website will also follow SEO rules.
+Simple responsive website with HTML5 and CSS3
